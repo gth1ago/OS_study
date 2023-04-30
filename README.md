@@ -24,3 +24,4 @@ Utilize algum programa para criação de ISO a partir do .bin, e então utilize 
 ## Referencias
 - https://aly.arriqaaq.com/wos1/
 - https://docs.fedoraproject.org/en-US/quick-docs/uefi-with-qemu/
+- Interrupt list: http://www.delorie.com/djgpp/doc/rbinter/

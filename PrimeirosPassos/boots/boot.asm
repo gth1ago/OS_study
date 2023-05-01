@@ -1,4 +1,4 @@
-[ORG 0x7C00]
+[ORG 0x7c00]
 
 ; mantem o loop para se ter o teste visual do momento do boot
 LOOP:

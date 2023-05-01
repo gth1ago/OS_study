@@ -1,4 +1,4 @@
-[ORG 0x7C00]
+[ORG 0x7c00]
 
 ; interrupcao - int
 ; alterando modo de texto para grafico
